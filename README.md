@@ -1,6 +1,7 @@
-# Monero GUI
+# Abelian GUI
 
 Copyright (c) 2014-2019, The Monero Project
+Copyright (c) 2018-2019, Abelian Foundation
 
 ## Development resources
 
